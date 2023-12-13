@@ -10,7 +10,7 @@
 
 📧 Email - raveenabanduni06@gmail.com
 
-💼 Portfolio -[https://raveena99999.github.io/myPortFolio/](https://raveena99999.github.io/myPortFolio/)
+💼 Portfolio -[https://raveena99999.github.io/myPortfolio/](https://raveena99999.github.io/myPortfolio/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveena-banduni-6290a7248/) 
