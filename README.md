@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Raveena Banduni</h1>
-<h4 align="center">I'm a passionate, enthusiastic, results-driven Front-End Developer with a strong foundation in React development. I am eagerly pursuing Full Stack Web Development to expand my skill set and contribute to dynamic and innovative projects. :smiley:. I focus on writing clean, elegant and efficient code :sparkles:.</h4>
+<h4 align="center">Dynamic and forward-thinking Full Stack Developer with a relentless drive to innovate and push boundaries in web development. Proficient in the latest front-end and back-end technologies, acquired through a combination of academic studies, and projects.</h4>
 🌍 I'm based in Dehradun, India
 
-⚛️ Some technologies that I love to work with include React.js, javascript, HTML5, CSS3.
+⚛️ Some technologies that I love to work with include React.js, javascript, HTML5, CSS3, node.js, express.js, and MongoDB.
 
 🚀 I have learned several  CSS libraries like Chakra UI and Tailwind CSS.
 
